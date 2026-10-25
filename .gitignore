@@ -1,0 +1,19 @@
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Build output
+out/
+target/
+build/
+
+# Runtime data (serialized objects)
+data/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
