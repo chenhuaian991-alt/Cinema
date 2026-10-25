@@ -17,8 +17,7 @@ Cinema/
 ├── cinema-platform/            # 核心工程（三层模块）
 │   ├── cinema-platform-common/    # 公共层：实体类、命令常量、消息收发工具
 │   ├── cinema-platformserver/     # 服务端：消息分发、业务逻辑、文件持久化
-│   ├── cinema-platform-client/    # 客户端：控制台交互、消息封装
-│   └── test/                      # 测试用例（48 项接口用例）
+│   └── cinema-platform-client/    # 客户端：控制台交互、消息封装
 ├── cinema-client/              # IDEA 模板占位模块
 ├── cinema-server/              # IDEA 模板占位模块
 ├── data/                       # 运行时序列化数据（.obj，不入库）

@@ -11,6 +11,10 @@ build/
 # Runtime data (serialized objects)
 data/
 
+# Test sources and run logs
+cinema-platform/test/
+cinema-platform/server-run/
+
 # OS
 .DS_Store
 Thumbs.db
